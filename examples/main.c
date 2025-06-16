@@ -1,6 +1,6 @@
 #define DARG_IMPLEMENTATION 1
 
-#include "../src/darg.h"
+#include "../darg.h"
 
 enum {
     FLAG_HELP = 1,
